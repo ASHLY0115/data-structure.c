@@ -33,5 +33,6 @@ int main(){
   for(i=1;i<=count;i++){
    printf("%d\t%d\t%d\n",sparseMatrix[i][0],sparseMatrix[i][1],sparseMatrix[i][2]);
   }
+ 
  return 0;
 }
