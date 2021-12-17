@@ -1,3 +1,9 @@
+/*********************************
+ file    : Stack
+ author  : Ashly Rose Antony
+ version : 1.0
+ date    : 3/12/21
+ **********************************/
 #include<stdio.h>
 int i;
 int max=10;
@@ -19,7 +25,12 @@ int main(){
    top=top-1;
   }
   else{
-  printf("\nThank u");
+  printf("\nThank u");/*********************************
+ file    : Sparse matrix
+ author  : Ashly Rose Antony
+ version : 1.0
+ date    : 3/12/21
+ **********************************/
   }
  }while(option==1||option==2);
  return 0;
