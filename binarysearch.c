@@ -34,6 +34,8 @@ int main()
     else
       last = middle - 1;
 
+    
+    
     middle = (first + last)/2;
   }
   if (first > last)
