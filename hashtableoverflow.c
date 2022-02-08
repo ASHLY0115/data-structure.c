@@ -30,7 +30,7 @@ break;
        printf("\n at index %d \t value = %d",i,h[i]); 
        }
         int main()
-        { 
+        {  
             int choice;
              while(1)
               {
